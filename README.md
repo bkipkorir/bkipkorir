@@ -29,7 +29,7 @@
 
 ## 📫 Connect With Me
 - 💼 GitHub: [github.com/brian](https://github.com/brian)  
-- 🌐 LinkedIn:  
+- 🌐 LinkedIn:  https://www.linkedin.com/in/brian-kipkorir-17562a415 
 - ✉️ Email: bkipkorir323@gmail.com 
 
 ---
