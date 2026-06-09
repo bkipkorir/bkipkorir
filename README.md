@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Brian  
 
-<!--
-**bkipkorir/bkipkorir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Education Student | 💻 Tech Enthusiast | 🌱 Curious Learner**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 📚 Currently pursuing studies in **Education**  
+- 💡 Passionate about **technology, innovation, and learning**  
+- 🌍 Exploring the intersection of **education & tech**  
+- 🔎 Always curious, always learning  
+
+---
+
+## 🛠️ Tech Interests
+- Artificial Intelligence & Machine Learning  
+- Cloud Computing & Distributed Systems  
+- Computer Networks & System Design  
+- Mobile Games & Emerging Technologies  
+
+---
+
+## 🌟 What I’m Working On
+- Building projects that merge **education and technology**  
+- Exploring **open-source contributions**  
+- Writing and sharing knowledge through **tech blogs & term papers**  
+
+---
+
+## 📫 Connect With Me
+- 💼 GitHub: [github.com/brian](https://github.com/brian)  
+- 🌐 LinkedIn:  
+- ✉️ Email: bkipkorir323@gmail.com 
+
+---
+
+## ⚡ Fun Fact
+I believe **curiosity is the best teacher**—every project I take on is a chance to learn something new and share it with the world.  
+
+---
+
+⭐️ If you find my work interesting, consider following me or collaborating on a project!
